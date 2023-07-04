@@ -20,6 +20,7 @@ public class Average {
     public static void main(String [] args){
 
     }
+    
     public double getAvg(int[] nums){
         int sum = 0;
         double average;
